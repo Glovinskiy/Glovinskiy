@@ -13,7 +13,7 @@ I build high-load automation systems and AI-powered workflows for businesses.
 
 ## Numbers
 
-- 22+ automation projects delivered
+- 32+ automation projects delivered
 - 20x productivity increase for clients on average
 - 10–20h/week saved per client
 
